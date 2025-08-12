@@ -1,2 +1,2 @@
 # Proyecto_7
-Proeyecto de render 
+# Este proyecto es una aplicación web interactiva que permite explorar y analizar datos de anuncios de venta de vehículos usados. Mediante una interfaz visual y controles dinámicos, el usuario puede filtrar, comparar y generar gráficas personalizadas para entender el comportamiento del mercado automotor en distintos periodos de tiempo. La herramienta integra análisis estadístico básico y visualizaciones interactivas para facilitar la interpretación
