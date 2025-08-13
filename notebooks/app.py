@@ -15,7 +15,7 @@ st.set_page_config(
 st.title('Visual date of Vehicles')
 st.markdown('Visuaizacíón de datos ')
 
-car_data = pd.read_csv('vehicle_data.csv')
+car_data = pd.read_csv('./notebooks/vehicle_data.csv')
 st.sidebar.title('Graph Vehicle')
 st.download_button(
     label= 'Dowland dataset',
